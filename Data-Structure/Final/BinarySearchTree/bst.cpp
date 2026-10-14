@@ -86,7 +86,7 @@ class BST{
             }
         }
 
-        Node* Preorder(Node* root){
+        void Preorder(Node* root){
             // basecase
             if(root == nullptr)
                 return nullptr;
@@ -97,7 +97,7 @@ class BST{
             Preorder(root->right);
         }
 
-        Node* Inorder(Node* root){
+        void Inorder(Node* root){
             // basecase
             if(root == nullptr)
                 return nullptr;
@@ -108,7 +108,7 @@ class BST{
             Inorder(root->right);
         }
 
-        Node* Postorder(Node* root){
+        void Postorder(Node* root){
             // basecase
             if(root == nullptr)
                 return nullptr;
