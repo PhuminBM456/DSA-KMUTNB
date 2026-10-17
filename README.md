@@ -67,4 +67,4 @@ HISTORY CLEAR
 ```
 ## Hint
 
-| สามารถใช้ Circular Queue หรือ Linked List ก็ได้ ส่วนคำสั่งก่อนหน้าให้เก็บลง Stack UwU |
+สามารถใช้ Circular Queue หรือ Linked List ก็ได้ ส่วนคำสั่งก่อนหน้าให้เก็บลง Stack UwU
