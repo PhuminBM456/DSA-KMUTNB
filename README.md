@@ -1,6 +1,6 @@
-# Queue Service
+# ข้อสอบเก่า 2569 Queue Service
 
-โปรแกรมจัดการคิว (Queue) ที่รับคำสั่งทีละบรรทัด และรองรับ UNDO
+โปรแกรมจัดการคิว (Queue) ที่รับคำสั่งทีละบรรทัด และรองรับการ UNDO
 
 ## Input
 
@@ -65,3 +65,6 @@ Output:
 1,3,4
 HISTORY CLEAR
 ```
+## Hint
+
+| สามารถใช้ Circular Queue หรือ Linked List ก็ได้ ส่วนคำสั่งก่อนหน้าให้เก็บลง Stack UwU |
