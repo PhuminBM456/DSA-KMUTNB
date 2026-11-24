@@ -25,7 +25,7 @@ int main()
 void A(vi &v,int start,int end,int checker)
 {
     // basecase
-    // UwU
+    
     
     // recursion
     int mid = start + (end-start) / 2;
@@ -46,7 +46,9 @@ void A(vi &v,int start,int end,int checker)
             A(v,mid+1,end,checker);
         }
     }else {
-        // Uwu
+        int left,right,ansLeft,ansRight;
+
+        
     }
 }
 
